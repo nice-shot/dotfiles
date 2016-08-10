@@ -8,4 +8,6 @@
 - link:
     ~/.bash_aliases: bash_aliases
     ~/.bashrc: bashrc
+    ~/.vim: vim
+    ~/.vimrc: vimrc
 
