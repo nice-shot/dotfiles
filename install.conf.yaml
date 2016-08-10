@@ -1,0 +1,11 @@
+- defaults:
+    link:
+      relink: true
+      force: true
+
+- clean: ['~']
+
+- link:
+    ~/.bash_aliases: bash_aliases
+    ~/.bashrc: bashrc
+
