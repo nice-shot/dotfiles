@@ -9,3 +9,6 @@ filetype plugin indent on
 
 " Background is dark in my terminal
 set background=dark
+
+" 79 Columns warning!
+set colorcolumn=80
