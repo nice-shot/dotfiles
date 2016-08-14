@@ -1,7 +1,6 @@
 - defaults:
     link:
       relink: true
-      force: true
 
 - clean: ['~']
 
@@ -10,4 +9,5 @@
     ~/.bashrc: bashrc
     ~/.vim: vim
     ~/.vimrc: vimrc
+    ~/.ssh/config: ssh_config
 
