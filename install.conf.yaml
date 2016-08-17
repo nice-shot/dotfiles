@@ -7,6 +7,7 @@
 - link:
     ~/.bash_aliases: bash_aliases
     ~/.bashrc: bashrc
+    ~/.bash_profile: bash_profile
     ~/.vim: vim
     ~/.vimrc: vimrc
     ~/.ssh/config: ssh_config
