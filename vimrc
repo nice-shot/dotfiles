@@ -15,3 +15,6 @@ set colorcolumn=80
 
 " Automatically remove trailing whitespace
 autocmd BufWritePre * %s/\s\+$//e
+
+" Default tab settings
+set tabstop=4 shiftwidth=4 expandtab
