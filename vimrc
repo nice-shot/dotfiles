@@ -12,3 +12,6 @@ set background=dark
 
 " 79 Columns warning!
 set colorcolumn=80
+
+" Automatically remove trailing whitespace
+autocmd BufWritePre * %s/\s\+$//e
