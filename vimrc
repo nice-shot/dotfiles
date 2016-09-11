@@ -18,3 +18,6 @@ autocmd BufWritePre * %s/\s\+$//e
 
 " Default tab settings
 set tabstop=4 shiftwidth=4 expandtab
+
+" Disable annoying folding in vim_markdown plugin
+let g:vim_markdown_folding_disabled = 1
